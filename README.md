@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning Advanced [Flutter](https://flutter.dev/)
 - 💬 Ask me about Web, App or Videogame Development
 - 📫 Reach me @ alexavila0128@gmail.com
+- 👨‍💻 All of my projects are available at [my portfolio](https://omicrxn.carrd.co/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
